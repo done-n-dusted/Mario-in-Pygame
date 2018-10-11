@@ -86,7 +86,9 @@ the end screen after the game is done.
 The file also has an important function that prints texts on the
 screen while playing the game that is used to give the instructions to
 the user and also displays the score.
+
 Here ends the explanation of the code.
+
 So rub your hands and get ready to get into the mario world,
 	AND
 try not to jump into the flames!!
