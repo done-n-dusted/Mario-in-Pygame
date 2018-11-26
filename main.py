@@ -94,7 +94,7 @@ class Game:
         self.all_sprites.update()
         #self.goos.update()
         #self.g.update()
-        #platform collision
+        #platform co;llision
         #if the character has some velocity on platform
         if self.player.vel.y > 0:
             hits = pg.sprite.spritecollide(self.player,self.platforms,False)
